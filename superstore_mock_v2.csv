@@ -1,0 +1,501 @@
+Order ID,Order Date,Ship Mode,Customer Name,Segment,Region,Category,Sub-Category,Sales,Quantity,Discount,Profit
+e7d984b2-e995-4b9e-a02c-198047cd6e72,2024-09-22,Standard Class,Bryan Nelson,Consumer,Central,Technology,Copiers,172.18,10,0.26,-184.39
+503cc273-dc3d-496e-8787-8c28d25e2a12,2024-05-25,Second Class,Michele Richard,Home Office,East,Furniture,Tables,524.1,3,0.01,234.16
+b6a87982-080d-4ec8-a05f-066c67b28ef0,2025-04-08,Second Class,Victor Scott,Consumer,Central,Technology,Accessories,856.17,6,0.22,-86.47
+bf783285-bbd6-4981-9421-307a32a8d913,2024-07-28,Same Day,Donna Alvarez,Home Office,East,Furniture,Tables,1573.99,7,0.04,58.3
+a3e4c73f-ea2d-4bce-b43e-bc695abe4310,2025-04-06,Same Day,Brian Mercer,Home Office,West,Office Supplies,Labels,389.45,1,0.05,483.9
+91b577f0-a235-486c-a81c-77fd35de8e7b,2024-10-24,Standard Class,Raymond Cabrera,Home Office,Central,Office Supplies,Binders,351.41,1,0.2,222.34
+5943877f-8376-45e8-87bc-2d2eef7d6d72,2025-01-08,Standard Class,Anthony Davis,Home Office,East,Furniture,Bookcases,1266.81,5,0.01,-14.7
+91c83cc8-eaa4-40e6-b90f-2f999f8686e1,2024-06-05,Standard Class,Brittany Anderson,Consumer,West,Furniture,Bookcases,1020.59,9,0.02,197.44
+47672450-df56-4519-833b-3250240d5016,2024-06-11,Second Class,Judy Booker,Corporate,Central,Office Supplies,Paper,655.87,5,0.07,205.34
+7c30aafd-12b3-4d1a-89b2-3a0bf802072e,2025-02-01,Second Class,Christina Gomez,Corporate,East,Technology,Copiers,1226.6,10,0.08,-180.12
+64beb18b-6bd5-419e-91d0-6943237dc4e6,2024-12-30,Standard Class,Anthony Lopez,Home Office,East,Office Supplies,Labels,326.91,1,0.25,390.96
+e1b79867-2ec5-4327-8385-189e3fbb107e,2025-04-09,Standard Class,Hannah Johnson,Corporate,East,Furniture,Chairs,735.85,5,0.28,-57.38
+a139be46-21f5-4a58-9c7d-03bc718f9f32,2025-03-23,Standard Class,Nicholas Harris,Corporate,West,Technology,Accessories,214.01,2,0.08,300.52
+3b91db4c-20e0-422b-9ee4-f0cf2c06113f,2025-02-05,Same Day,Jared Contreras,Corporate,South,Furniture,Bookcases,797.23,6,0.07,0.01
+3c89bd64-a722-43ef-9a55-f69044154058,2025-03-23,First Class,Cynthia Collier,Home Office,South,Office Supplies,Labels,410.03,1,0.26,304.4
+bce4cc6d-9f05-446d-adb7-6b7828c9f584,2025-02-20,Second Class,Bill Bowen,Consumer,South,Office Supplies,Labels,200.04,8,0.2,50.48
+4717c735-0c45-4656-882e-c5187aad1c35,2024-05-13,Standard Class,Douglas Arroyo,Home Office,South,Office Supplies,Binders,552.57,3,0.13,-72.92
+a967291d-c849-42d9-96e1-4397cc7719b7,2024-06-09,Standard Class,Keith Castro,Home Office,West,Office Supplies,Binders,1704.92,2,0.02,-86.61
+6f345e24-d6cf-4cd1-9c78-003c10867e35,2024-06-26,Same Day,Rebecca James,Consumer,West,Office Supplies,Paper,973.78,8,0.19,-137.62
+eb221f5e-fc12-4e28-9668-45bb97852f6d,2024-06-07,Standard Class,Yesenia Jones,Consumer,East,Office Supplies,Paper,322.42,10,0.17,460.42
+131515ac-a09d-41ac-ba5f-5824a74346f4,2024-11-03,First Class,Kimberly Miller,Consumer,Central,Furniture,Chairs,244.66,4,0.25,321.26
+a915cabf-9067-48b7-a912-4c8c054071e3,2024-10-28,First Class,Jamie Patterson,Corporate,Central,Furniture,Chairs,1814.79,8,0.2,466.22
+cad950c1-13ec-4723-a1fa-0eb3c789b9fb,2024-05-12,Same Day,Casey Carter,Corporate,South,Technology,Accessories,1470.09,2,0.15,104.48
+54809cde-9f9d-4d9f-bcea-c2668640a0a6,2025-05-01,First Class,Tina Davis,Consumer,South,Office Supplies,Labels,1854.07,3,0.09,12.67
+f79b2022-5133-4e81-a5a8-71ce2af94ddf,2025-02-14,Second Class,Amy Hernandez,Consumer,East,Furniture,Bookcases,1856.45,3,0.05,301.45
+e4b89d96-c648-44ad-bce6-21b5286fc71e,2025-04-29,Standard Class,Michael Curtis,Home Office,West,Furniture,Chairs,1342.4,10,0.01,-16.33
+72ad6bdc-54f0-40f4-97e5-8dac1e55eb35,2024-08-19,First Class,Katrina Henry,Home Office,South,Technology,Copiers,1737.46,8,0.2,-170.6
+618168a8-0aca-4b2a-8477-8dca28317d48,2025-03-18,Second Class,Ann Pena,Corporate,West,Furniture,Chairs,142.95,10,0.15,-55.88
+129d8170-1386-404d-8b8c-565b051fb1fb,2024-11-05,Same Day,Barbara Williams,Corporate,East,Technology,Copiers,542.84,3,0.14,-6.0
+9dfb5c6a-4a27-4784-ad5e-86b3d2db1a4d,2024-09-10,First Class,Karen Rodriguez,Home Office,West,Office Supplies,Paper,1665.18,2,0.11,-157.95
+6892e823-43ef-4bc2-a4f3-7e088c9433dc,2024-11-29,Standard Class,Katelyn Kelley,Consumer,Central,Office Supplies,Labels,1500.37,8,0.08,80.64
+10a77b6c-ea1a-4914-85d8-b4d616470a0a,2024-11-30,First Class,Richard Wheeler,Home Office,West,Furniture,Tables,239.5,3,0.2,-26.83
+25618b30-f563-4946-b900-66880fd6b588,2024-11-23,Second Class,Dawn Martinez,Consumer,West,Technology,Copiers,430.02,4,0.12,152.46
+02db1a98-aeb7-41b2-9e75-edecb92bf81d,2024-11-05,Same Day,Sheryl Miller,Corporate,West,Furniture,Bookcases,1054.51,1,0.22,197.62
+d34497b3-6ba4-41fe-af90-39e9e7c1a1f4,2024-08-07,Second Class,Christian Grimes,Consumer,Central,Office Supplies,Paper,1915.53,6,0.09,-134.97
+8c19394a-51d9-42cb-91d0-826f5d7e684b,2025-01-30,Standard Class,Troy Smith,Corporate,Central,Office Supplies,Labels,1371.88,8,0.2,-165.32
+85e43979-6f63-4cb7-841e-616b9c8ee0d7,2024-10-02,First Class,Teresa Lamb,Corporate,Central,Office Supplies,Paper,685.63,1,0.12,160.06
+3481395d-b8c4-4503-92af-c1870c8a6ba2,2025-04-06,Same Day,Kevin Mendoza,Corporate,Central,Furniture,Bookcases,918.33,1,0.26,237.79
+bc2b6227-54e6-4b66-b4f4-63a264835401,2024-12-09,Same Day,Curtis Fuller,Consumer,West,Furniture,Bookcases,758.85,3,0.29,436.13
+f7af053c-b7ea-423b-adb9-acbaae4d4420,2025-02-05,Second Class,Anthony Johnson,Consumer,East,Furniture,Tables,1578.2,2,0.12,-27.28
+b492f949-e9dc-40ab-8164-2f76dd110a52,2024-06-29,Second Class,Tammy Lee,Consumer,South,Office Supplies,Paper,710.43,5,0.3,342.7
+10de36cc-7079-4fd6-8e70-92e91ed531bd,2024-05-13,Same Day,Kimberly Cole,Corporate,East,Technology,Copiers,1153.93,3,0.28,450.53
+d28f58a8-4491-4e6f-a0e2-a85df912e967,2024-09-08,Standard Class,Mr. Timothy Gonzalez,Home Office,West,Technology,Copiers,1974.58,9,0.27,-84.91
+3b44269e-03b0-4c90-b710-f6196b5cd582,2024-05-29,Same Day,Melinda Moore,Home Office,East,Furniture,Chairs,378.31,1,0.21,180.85
+5107ef6c-ec86-4c34-9f39-ab8ecc65dd97,2024-11-12,First Class,Oscar Jones,Consumer,East,Furniture,Chairs,996.78,4,0.25,154.22
+f4a34f18-8d9b-4027-8fbf-92c34b768efb,2025-02-19,Standard Class,Nancy Johnson,Consumer,West,Furniture,Chairs,956.85,3,0.28,-1.53
+5f755e1b-98b2-420e-a711-2d6a05f627a4,2024-06-27,Standard Class,Christina Moore,Home Office,Central,Furniture,Tables,356.01,3,0.29,94.09
+b0b9043e-e30c-4809-a9c6-0411545e3dc0,2025-02-19,Second Class,Kimberly Douglas,Home Office,West,Office Supplies,Labels,1365.42,9,0.2,208.03
+471f3dd4-0c9a-425b-8255-69af5befeff8,2024-12-05,First Class,Henry Valenzuela,Corporate,Central,Office Supplies,Binders,1057.35,6,0.19,-184.58
+57bbf2bb-b2a3-496b-9946-ce26ae04d227,2024-05-26,Same Day,Brett Wright,Corporate,East,Furniture,Tables,710.55,10,0.28,424.34
+c475fa4c-467a-4249-9fce-52f2e7baa733,2025-03-09,Same Day,Michael Burke,Consumer,Central,Office Supplies,Binders,1535.33,7,0.3,291.04
+8174ba30-9d11-40fc-a013-f1c3439eac69,2025-04-06,Standard Class,William Castillo,Corporate,East,Furniture,Tables,1023.51,1,0.23,23.64
+94cf218a-bd46-4d3a-b96d-ef0e9d280da7,2025-05-11,First Class,Russell Powers,Corporate,South,Technology,Phones,445.66,4,0.02,47.73
+7535bed8-2d4b-491f-80bb-7617ec09d674,2024-07-19,Same Day,Jesse Torres,Home Office,East,Furniture,Chairs,492.45,10,0.17,-72.18
+b1ffbde2-2324-458e-80e9-4fb630550e1f,2025-03-19,Same Day,Jodi Beasley,Consumer,West,Technology,Accessories,605.74,2,0.23,196.8
+721dbe4c-3ddc-4583-bd78-32902046c4cc,2025-04-03,Second Class,Timothy Allen,Consumer,East,Furniture,Tables,36.41,10,0.24,78.57
+bf9e977a-a892-4c6b-b0c8-a6a032d33482,2025-01-07,First Class,Lauren Rodriguez,Corporate,West,Furniture,Bookcases,1554.7,2,0.09,497.43
+00543b78-aa94-4ec3-bf66-853087857452,2024-11-04,First Class,Jessica Johnson,Corporate,East,Technology,Phones,1284.53,10,0.17,246.17
+f3e5176c-8d25-4538-b3ef-a98eee86fe93,2025-04-03,Second Class,Jeffrey Wong,Home Office,Central,Furniture,Chairs,1135.89,8,0.18,442.77
+4619b80c-8959-46db-9276-e20c6bbcf9d2,2025-01-24,Same Day,Scott Phillips,Home Office,Central,Office Supplies,Paper,1173.48,6,0.05,252.54
+ece7171c-9e1a-4f48-b616-aca1758bf379,2025-02-17,Standard Class,Robin Strickland,Home Office,West,Office Supplies,Labels,1867.67,6,0.18,-84.43
+afb55f98-ccae-4aa1-b102-acc89a9031aa,2024-08-29,Same Day,Leslie Harper,Home Office,West,Technology,Phones,423.45,8,0.28,154.46
+78710256-d5e4-4f6b-a3ae-4104358446bb,2024-09-29,Same Day,Timothy Reeves,Consumer,Central,Technology,Accessories,732.04,6,0.16,317.0
+ed5fdfca-cd2d-400d-9d4e-07b7518a05df,2024-06-10,Same Day,Adam Roach,Corporate,East,Furniture,Bookcases,1801.16,1,0.01,407.49
+9deab459-4f39-432d-b29b-54de8b83ffb5,2024-12-09,Standard Class,Nicole Miller DDS,Home Office,West,Office Supplies,Labels,1778.54,1,0.19,437.19
+fcbb0469-ad87-4b05-87bf-dc2b575edc06,2025-02-26,Second Class,Mary Moore,Home Office,East,Technology,Phones,222.16,3,0.21,499.42
+00ff162e-7e1d-4518-bb92-c26b50c24bd6,2024-06-27,Second Class,Joshua Wyatt,Corporate,Central,Technology,Copiers,1550.07,9,0.14,173.61
+82334c89-8b22-4c96-8ff6-27d8de49aa8a,2024-08-12,Standard Class,Monica Hill,Home Office,South,Office Supplies,Paper,175.17,10,0.13,-4.34
+242e385b-7fef-48d2-aea3-596ee76e9680,2025-01-16,Same Day,Andrea Garza,Corporate,South,Office Supplies,Paper,83.82,5,0.16,-30.48
+841e6b52-5b51-4c6e-8b98-ec80f5bef5d2,2024-06-15,Second Class,Nichole James,Consumer,East,Technology,Accessories,424.09,6,0.24,309.32
+ef481c47-fb4c-4675-b23f-88e43db46a3e,2024-12-31,Second Class,Donna Mitchell,Corporate,West,Technology,Copiers,536.56,8,0.14,44.93
+f658b9e2-54dc-4d5b-a6ef-61e879ddcde8,2024-11-15,First Class,Mario Perez,Home Office,West,Technology,Accessories,1338.29,8,0.23,-92.99
+4fd5e1a2-526b-4ccc-a0fc-6bc52851ca69,2024-09-06,Same Day,Maria Taylor,Home Office,West,Furniture,Bookcases,105.22,3,0.09,-121.15
+e5ca5b80-7c1b-4836-8e6b-5803c17c4d77,2024-05-15,Same Day,Shawn Carpenter,Consumer,East,Office Supplies,Labels,163.81,4,0.11,474.29
+90a5d7f9-0596-4bd2-8fcb-deb6da5247f9,2024-05-29,Second Class,Melissa Williams,Consumer,Central,Furniture,Tables,1668.97,10,0.28,110.83
+40f97f41-fed3-4d8a-aa8c-923969572c06,2024-06-04,First Class,Katie Jones,Home Office,Central,Furniture,Tables,284.77,3,0.05,94.66
+29de17fc-653f-4e6d-a17c-509bd6f85b69,2024-06-02,First Class,Mary Thomas,Home Office,West,Furniture,Bookcases,802.69,8,0.11,390.78
+d6440fe2-74a6-4380-8cb8-cc2c377cf502,2024-07-25,Standard Class,Rhonda West,Home Office,South,Furniture,Bookcases,1119.03,7,0.17,-20.71
+87024396-a43d-4440-a878-ecda8971c60f,2025-04-01,Second Class,Mr. Peter Pena MD,Consumer,Central,Technology,Phones,75.2,3,0.18,445.8
+56c846f2-e1de-45fd-96b2-a68a3297f81c,2024-09-23,Second Class,Shawn Molina,Consumer,East,Office Supplies,Binders,1776.73,5,0.13,-155.03
+8e9f0e92-749e-45c1-b626-5e7868dc40f4,2024-08-10,Standard Class,Marc Medina,Consumer,West,Technology,Phones,73.1,3,0.06,227.91
+f6d87bcf-d61d-4995-ae29-339df4b37ed3,2025-04-19,Standard Class,Dalton Dixon DDS,Home Office,West,Furniture,Chairs,1026.27,4,0.09,449.9
+eee63adb-579d-47f4-a5cf-00482b0ff13c,2025-03-13,Same Day,Amanda Ray,Corporate,East,Office Supplies,Paper,823.48,3,0.22,-54.14
+eb66519c-1e12-4b65-ba97-3bcb3df75694,2025-04-27,Standard Class,Jordan Torres,Home Office,East,Office Supplies,Paper,1056.62,10,0.26,0.78
+27baa7e8-dee4-4277-9f05-8a682537fc4b,2024-09-11,First Class,Matthew Caldwell,Home Office,Central,Office Supplies,Labels,498.66,6,0.11,-80.22
+c4c707f7-8a56-42ab-8a50-7de82a2f063d,2024-12-16,Second Class,Dylan Lewis,Corporate,West,Furniture,Chairs,1354.31,8,0.09,86.06
+b1a4ba99-5f8d-41be-adb5-eb403abaad30,2025-03-24,First Class,Rebecca Richardson,Corporate,South,Technology,Accessories,320.81,3,0.26,-5.07
+d355b0f3-0b17-45f4-b25a-5282fc3dd691,2024-12-14,Second Class,Stephanie Taylor,Corporate,West,Office Supplies,Paper,1234.05,1,0.12,172.07
+90bf1ff1-eb36-41d9-8023-896a00521b17,2024-12-08,First Class,Misty Boyer,Consumer,South,Technology,Copiers,1651.81,7,0.08,96.59
+cae235cc-12a1-467e-ab64-f53aeb60a0d2,2025-03-09,Same Day,George Carter,Consumer,West,Technology,Accessories,907.23,4,0.11,-115.86
+8dcb87a6-530a-4cdc-89b9-d87ad3a0a615,2024-06-20,Same Day,John Serrano,Corporate,West,Furniture,Chairs,1415.0,4,0.18,394.51
+ca0d4067-1556-4316-b334-ad4968867f1b,2024-09-25,First Class,Jamie Cook,Consumer,Central,Furniture,Tables,1401.79,7,0.18,376.79
+e106292c-941e-415f-b532-8f19fd2d5963,2024-07-18,Second Class,Mary Mitchell,Corporate,West,Office Supplies,Labels,900.62,7,0.26,-42.7
+0f93ec76-fc25-400f-9dc4-07ed649bd290,2024-10-02,Second Class,Luke Crawford,Corporate,East,Office Supplies,Binders,918.25,4,0.16,172.78
+affbbe8a-0114-47fd-9796-36c2b6d25430,2025-02-11,Second Class,Natasha Hernandez,Home Office,East,Technology,Accessories,1501.4,8,0.17,266.98
+593cef48-fa14-4eb5-b98e-dd3567177c23,2024-11-17,First Class,Joseph Payne,Corporate,Central,Technology,Copiers,987.65,8,0.28,186.27
+e1e24ef1-a6cd-4613-96aa-62edcc6d33eb,2025-02-23,First Class,Alison Vasquez,Corporate,West,Furniture,Bookcases,1990.04,7,0.24,8.06
+c7d93680-9cb6-47f1-9ac5-02e12561bc6d,2025-03-02,Same Day,Richard Benson,Consumer,South,Furniture,Bookcases,1599.7,4,0.29,-124.52
+032fe596-414c-4a66-afcd-7c5ea2531acd,2024-12-08,Standard Class,Christopher Harris,Home Office,West,Office Supplies,Paper,1223.87,10,0.08,410.45
+700c10a8-4a82-4225-a80a-f2f9a7c25e11,2024-12-13,Second Class,Jessica Williams,Consumer,West,Furniture,Bookcases,1528.45,1,0.19,-8.7
+5147c06f-0215-42d7-a2b4-d23d27d0af06,2025-03-17,First Class,Allison Kirby,Corporate,West,Furniture,Chairs,1182.95,1,0.07,303.66
+5d966fa7-701f-4053-afe9-8123c85b265e,2025-03-20,Same Day,Matthew Cervantes,Corporate,Central,Technology,Copiers,450.82,9,0.18,-55.67
+b73bc47c-a1f5-4280-babb-cab40d8fcf0b,2024-10-29,Second Class,Denise Scott,Home Office,West,Furniture,Chairs,40.35,2,0.13,330.78
+1b453a83-268d-457c-81c2-87565db8ed1e,2024-08-09,First Class,Tyler Smith,Consumer,Central,Furniture,Bookcases,675.96,10,0.24,290.6
+d4e0f7a0-2af9-4f75-9ce7-544bc5c0c50f,2024-07-21,Same Day,Joshua Malone,Home Office,East,Office Supplies,Labels,863.31,2,0.14,368.51
+eb53eb67-c67f-4e28-a068-5d5bbe5ab2b0,2024-09-13,Standard Class,Amy Gonzalez,Consumer,East,Furniture,Tables,1960.14,3,0.24,-188.81
+b055baf6-234c-409e-9caf-5e6f5afbddab,2025-04-08,First Class,Carl Morrow,Consumer,Central,Technology,Accessories,1965.86,5,0.08,411.0
+ed2dd8b5-eafa-40de-998f-234e1b213f30,2025-02-26,Same Day,Steven Foster,Corporate,East,Technology,Copiers,244.18,9,0.23,312.69
+2ed671ed-447f-4ad0-bd8c-219ab5596e60,2025-01-07,Same Day,Jessica Miller,Corporate,West,Furniture,Bookcases,1246.93,7,0.21,33.99
+5d1e1678-3b8e-43cc-b14d-48703e8fbcb9,2024-09-04,Standard Class,Eric Roberts,Corporate,South,Technology,Phones,1662.19,10,0.3,68.81
+9a4394f7-10be-458a-8a2b-76238742548b,2025-01-25,Standard Class,Allison Taylor,Home Office,Central,Technology,Copiers,354.94,7,0.12,25.55
+54b47c60-919f-4c15-943b-538af5971b9b,2024-05-22,Same Day,Travis Vazquez,Consumer,Central,Furniture,Tables,1660.65,10,0.02,356.96
+2d1c7140-81b2-428a-b902-34d348f560d6,2024-12-15,Same Day,Fernando Thomas,Corporate,West,Technology,Copiers,1793.19,7,0.23,436.4
+c26aba26-55dd-4984-8276-e3eb1956abac,2024-11-20,First Class,Noah Johnson,Home Office,Central,Office Supplies,Paper,124.66,5,0.15,111.14
+167f9c8c-f659-4665-9337-f5e7e781e000,2025-01-23,Second Class,Brianna Ortiz,Consumer,South,Office Supplies,Paper,1706.65,10,0.21,104.7
+3ad7257c-932a-44ea-b2f4-9dec02900dbe,2024-09-23,Same Day,Eric Fuller,Corporate,South,Technology,Phones,952.86,7,0.28,342.98
+bc52bc69-542d-4ddd-9d26-366e77e7a667,2024-05-20,Standard Class,Lori Russo,Consumer,South,Furniture,Chairs,669.03,3,0.0,244.75
+42d07349-47ae-490a-85d4-0b4290cac2da,2024-08-17,Same Day,Kristy James,Consumer,East,Office Supplies,Paper,1993.84,8,0.21,475.63
+b0e20bba-2235-40d9-b2e2-0d3e743e123b,2024-12-31,First Class,Amy Nguyen,Consumer,Central,Office Supplies,Labels,497.37,1,0.15,220.24
+0408d9f6-2382-4b7a-8e50-0111eab5fb80,2024-10-21,Standard Class,Danny Harrington,Corporate,Central,Technology,Phones,189.73,7,0.06,100.8
+986b82a0-95e1-4247-87c7-acf29ba4288c,2024-07-11,Second Class,John Miller,Home Office,West,Office Supplies,Binders,1777.23,10,0.18,-146.82
+dc2978ad-c340-49b3-acf1-e33cf88bb7c6,2025-01-07,Same Day,Yolanda Hess,Consumer,Central,Furniture,Chairs,761.2,3,0.15,234.62
+8d428865-1f84-4c0b-8fc5-88877d194d78,2024-07-10,First Class,Erica Caldwell,Corporate,East,Technology,Accessories,750.06,8,0.18,151.07
+ffee1fe9-a6ba-4a67-8415-348ed7aba28a,2024-08-17,Same Day,Hannah Miller,Corporate,Central,Office Supplies,Binders,1633.59,4,0.25,124.36
+dd913edd-e808-4f61-bfd8-6b06a03a8743,2024-07-25,First Class,Joshua Cunningham,Corporate,West,Furniture,Chairs,799.65,10,0.21,-101.38
+d8ed2c50-f9e6-4dcb-8f59-36f970a8b18f,2024-09-28,Standard Class,Brian Banks,Home Office,South,Technology,Phones,1584.54,10,0.24,433.98
+53c30e74-a621-4b4e-9fab-ae6ef990a82e,2025-05-06,Same Day,Angela Wilson,Home Office,East,Office Supplies,Paper,404.57,7,0.23,371.49
+b6d4194a-ba25-490f-b032-42c05e1448ee,2024-12-10,Second Class,Adam Pacheco,Consumer,Central,Furniture,Chairs,897.23,10,0.09,463.83
+33243f89-0c67-42d2-b76f-58b1080619fb,2024-06-21,Standard Class,Warren Burns,Consumer,Central,Technology,Phones,530.47,4,0.12,466.75
+719f0059-c15c-4439-b39b-63c14dce29eb,2024-12-14,First Class,Jillian Olson,Corporate,Central,Office Supplies,Labels,1855.89,1,0.01,-108.74
+6aae3bf6-9dd5-46d3-ad4a-da6eff843e7d,2024-10-01,First Class,Gary Brown,Home Office,East,Technology,Accessories,537.29,8,0.04,107.72
+ed13448c-0bda-4288-86d5-12156a28f14a,2024-09-04,First Class,Vincent Stark,Home Office,West,Office Supplies,Binders,1058.31,6,0.14,415.54
+76f95135-2125-482f-9b2d-8c6f473c9d91,2024-09-07,Second Class,Sarah Hernandez,Corporate,Central,Furniture,Bookcases,297.88,10,0.03,56.76
+ac24cbb3-35e6-4802-b3a1-5e53a4a5b5ba,2024-08-08,Same Day,Casey Smith,Consumer,West,Furniture,Chairs,1968.15,1,0.06,181.66
+58d15fb4-ce81-4528-b7da-f9b45f8328e6,2025-01-10,First Class,Thomas Dunn,Corporate,South,Office Supplies,Labels,869.88,3,0.21,0.61
+f76b5ded-a694-4c4f-b12d-00e71e0a9f79,2024-09-18,Second Class,Elaine Craig,Corporate,South,Technology,Accessories,712.6,5,0.24,-123.07
+ae5dfacf-22aa-4ca9-a0cc-22b76a7dad41,2025-04-08,Standard Class,Samuel Medina,Corporate,East,Office Supplies,Labels,1531.68,10,0.15,30.84
+7d33d562-f288-42d7-a669-91429a126e23,2024-08-20,First Class,Jason Rogers,Home Office,South,Furniture,Chairs,1180.91,5,0.25,89.04
+6fc2c85d-2c35-4358-a0e6-cbe316a16962,2024-07-22,First Class,Kathy Farmer,Consumer,Central,Technology,Copiers,1297.86,8,0.27,217.04
+5b570749-d6f5-4a99-aba5-bfc0565e205b,2025-05-12,First Class,Charles Farley MD,Home Office,South,Office Supplies,Binders,227.42,4,0.21,245.14
+23ede9b3-216b-4ea3-a2de-6332928f0586,2024-06-15,First Class,Daniel Ball,Consumer,East,Technology,Accessories,265.46,3,0.29,135.86
+1e5a0786-53f3-4cfb-a244-fc6bd61a12b8,2025-03-11,First Class,Patrick Jackson,Home Office,East,Technology,Copiers,511.76,6,0.23,372.18
+094de8ad-8e04-408b-be67-a13e8b877384,2024-11-04,First Class,Victoria Stewart,Corporate,Central,Office Supplies,Labels,824.89,9,0.02,355.46
+83e25d1e-3c00-4caf-8bd8-2efbc81f293d,2024-11-29,Second Class,Victoria Morales,Home Office,West,Office Supplies,Labels,1845.7,5,0.13,196.66
+b8c48f16-1f06-4631-85e3-07dcec015042,2024-11-24,Standard Class,Travis Smith,Home Office,East,Technology,Accessories,1928.57,2,0.13,-88.83
+7c196e7b-771a-4121-aba0-0a17b1a4c6bc,2024-12-27,Standard Class,Patricia Anderson,Consumer,West,Office Supplies,Paper,1643.35,4,0.1,-100.59
+85e17adf-90f6-460c-bb00-109a660a9c9e,2025-05-08,Same Day,Andrew Fowler,Consumer,West,Furniture,Chairs,1648.72,7,0.28,338.97
+c1e4e7ff-11ec-4925-9c74-b0eab1112ef6,2024-09-24,First Class,Alison Morrison,Corporate,East,Furniture,Tables,1468.47,4,0.01,432.07
+d356effb-2db9-4ef9-af89-05d28813f10b,2024-06-09,Second Class,Eric Barnett,Corporate,West,Office Supplies,Binders,1740.87,6,0.13,235.75
+30d5636e-28d7-49ba-867e-e65879f5bc66,2025-04-24,Second Class,Jennifer Morales,Corporate,East,Furniture,Bookcases,1753.44,9,0.09,18.11
+de63b89d-211d-4e51-8444-9ae8db0931ee,2025-02-02,Second Class,Dr. Jose Sims,Corporate,East,Technology,Phones,1469.57,4,0.3,-78.88
+96283b69-d40e-4adb-b38a-50fefeaeeb3b,2025-04-16,Standard Class,Christopher Wilson,Corporate,South,Furniture,Chairs,271.47,9,0.1,86.97
+5cee8f06-883f-497b-9c0f-2e6b0f5a97a2,2025-02-04,Standard Class,Aaron Rangel,Home Office,Central,Furniture,Bookcases,1709.96,3,0.13,452.66
+ddf0c5e0-6254-4f67-8258-6447b89b286f,2024-09-20,First Class,Joseph Clark,Corporate,West,Furniture,Bookcases,885.28,10,0.01,379.48
+b3fc05ae-6acb-4a6b-b639-42a7e21a93ba,2024-05-19,First Class,Linda Trevino,Consumer,West,Technology,Copiers,1231.94,10,0.24,-26.93
+a1e2a981-1105-4a54-95a4-9b387453d78e,2024-07-03,Standard Class,Eric Wilson,Consumer,South,Technology,Phones,1445.31,1,0.16,67.13
+e41b5b71-6c6b-4d61-bb07-48b84e8bc38c,2025-02-03,Second Class,Kenneth Martin,Consumer,West,Technology,Accessories,932.34,7,0.26,-105.14
+80354ec9-b074-4018-8af0-b4a9c903526b,2024-12-13,Standard Class,Richard Day,Home Office,Central,Technology,Copiers,1756.91,10,0.29,153.98
+994cbaa7-9d0d-49e0-b413-a6277890280e,2024-09-11,Second Class,Christopher Kelly,Home Office,West,Office Supplies,Labels,1277.42,10,0.15,495.79
+7af05d96-9100-403a-864d-f4c80fb1e0e5,2024-11-07,First Class,Stephen Wright,Home Office,Central,Office Supplies,Binders,920.32,10,0.19,441.9
+56d72308-e136-4131-9247-627cc83d6910,2024-10-12,Same Day,Robert Flores,Corporate,East,Office Supplies,Binders,1049.67,5,0.05,319.23
+adf89e99-6dcc-4c64-9bd9-9bedec9e857d,2025-02-10,Standard Class,Courtney Hanson,Corporate,West,Technology,Copiers,1624.9,3,0.06,-93.7
+911f292c-9324-4257-8c97-02a098b6f577,2024-08-12,Same Day,Corey Poole,Consumer,Central,Technology,Copiers,1097.75,7,0.27,-93.08
+6df5bb18-2400-4585-8778-2fb1bd8e5d2a,2025-05-01,Second Class,Debra May,Consumer,Central,Furniture,Bookcases,913.78,10,0.13,267.97
+617079c3-e1dd-438b-bec7-93272ede6eff,2024-10-15,Second Class,Erin Johnston,Consumer,South,Office Supplies,Binders,963.14,8,0.17,255.66
+ab60c55e-72cc-48e2-bbd2-3c0ec714e38f,2025-01-19,Second Class,Donald Roth,Consumer,West,Furniture,Bookcases,575.03,1,0.06,347.11
+83535598-5bda-4008-a1e9-1267275b1a5a,2024-10-01,Same Day,Danielle Waters,Home Office,West,Furniture,Tables,1621.8,8,0.27,495.78
+1c4387b1-893e-4b94-8601-50875e5f77db,2024-05-20,Same Day,Matthew Ellison,Consumer,East,Office Supplies,Binders,550.31,9,0.01,309.19
+489335d4-64e5-45c1-a217-97718b0066a6,2024-12-12,Second Class,Thomas Hall,Consumer,Central,Furniture,Chairs,847.89,4,0.19,-79.81
+959a8712-03bc-4df4-be44-615c64d2304e,2024-11-15,Second Class,Connor Miller,Consumer,South,Technology,Accessories,102.87,2,0.15,236.33
+d033057e-7d80-4eb2-a6b8-ac5974f5489b,2024-06-17,Second Class,Javier Dyer,Corporate,East,Technology,Accessories,526.51,10,0.28,119.01
+7476fdcf-0a4c-4307-8084-e24f54233435,2025-01-04,First Class,Amy Porter,Consumer,West,Furniture,Tables,1100.7,4,0.1,334.43
+f92bb330-b950-4d02-9ced-dd56dc699d9e,2024-08-16,Same Day,Evan Foster,Consumer,South,Technology,Copiers,857.39,1,0.11,-81.18
+ef7b8437-0608-4138-a7b2-a9c9a3b265bb,2024-05-12,Second Class,Lauren Howard,Consumer,Central,Technology,Accessories,1407.59,4,0.2,-16.22
+235aa38c-7aa1-46ce-be09-2534cae562cc,2024-05-14,Second Class,Michael Lee,Corporate,West,Office Supplies,Binders,856.79,7,0.16,21.75
+565a9295-24de-4d16-8433-9231acd869ac,2024-06-12,First Class,Shawn Cannon,Home Office,East,Office Supplies,Labels,921.96,3,0.04,388.17
+966fdc83-617f-4dd8-8d06-aa4b4fcb3a5d,2024-06-27,Same Day,Mary Green,Consumer,South,Technology,Copiers,155.22,3,0.12,288.87
+1d4b2f24-c5f2-407f-b774-9274e7785c8d,2025-01-04,First Class,Matthew Kim,Home Office,South,Technology,Copiers,604.62,1,0.1,415.75
+5ae6ab0c-bf6e-4328-8264-7d13171678d3,2024-10-12,First Class,Robert Moore,Home Office,West,Office Supplies,Labels,570.99,5,0.18,17.67
+a97578fa-bb56-485f-8d67-cbd54a988880,2025-03-04,Standard Class,Savannah Wilson,Consumer,South,Technology,Phones,925.63,10,0.21,-97.37
+0a3afa21-ef82-434f-873c-9e078b52b853,2025-04-10,First Class,Stephanie Roberts,Corporate,Central,Furniture,Chairs,1886.19,5,0.12,81.64
+384c2706-7300-4c04-84d6-4a05860697ee,2025-04-05,First Class,Jason Flores,Home Office,West,Furniture,Bookcases,1884.81,9,0.17,-78.6
+930cbaa7-a753-4cf0-890f-d79853e6ae43,2024-12-15,First Class,Alec Bell,Corporate,East,Office Supplies,Paper,330.37,8,0.27,-35.95
+6a0d2fdd-e047-4711-b952-d90a207a8a60,2025-02-14,Same Day,Cathy Melton,Home Office,East,Technology,Copiers,1197.77,4,0.0,55.98
+582fbafe-64de-45d4-a9da-0d879b31d8aa,2024-06-27,Second Class,Troy Cole,Corporate,South,Office Supplies,Labels,676.83,8,0.14,261.08
+cbc6701a-2fc4-47e3-b752-04850447f19f,2024-11-14,Same Day,Angela Morgan,Consumer,Central,Technology,Phones,409.78,5,0.2,107.81
+bd75e445-9014-46d6-b772-8933ca334230,2025-03-14,Same Day,Rebecca Marshall,Home Office,South,Furniture,Chairs,1382.1,3,0.18,-88.33
+4c519191-1ff2-4834-9f82-aee837fc7988,2025-05-09,Same Day,Christine Dean,Home Office,East,Technology,Copiers,687.38,10,0.13,-113.66
+32c7004f-5969-4d46-8773-3be3bafa60d9,2024-11-29,Same Day,Alexander Cannon,Consumer,Central,Furniture,Tables,1416.23,5,0.17,303.67
+9b92c891-90c0-47ff-8b9b-58b8126ee7f9,2024-07-11,Same Day,Evan Parker,Consumer,East,Furniture,Tables,1099.08,6,0.09,197.16
+f82cb95f-7286-40f2-a9b5-47d981bb33c4,2025-01-27,Second Class,Aaron Ryan,Consumer,South,Furniture,Tables,1542.32,5,0.25,297.39
+43a2b4aa-35ce-4b18-a621-59b2664f92a2,2025-03-27,Same Day,John Copeland,Home Office,West,Technology,Phones,631.46,2,0.17,422.72
+22fa1924-3e22-4b32-aa47-08587f7f054e,2025-04-26,Standard Class,Nathan Dawson,Home Office,South,Office Supplies,Labels,1742.21,7,0.28,98.85
+14ff21c9-f2ee-4b42-b918-df6899ce2e49,2024-11-13,Second Class,Erica Hernandez,Corporate,East,Technology,Accessories,1755.93,9,0.22,233.6
+582a6cd3-3106-4c76-b0d8-473047659437,2024-10-06,First Class,Patrick Brown,Home Office,Central,Office Supplies,Paper,1906.51,4,0.06,8.42
+282ce89c-c712-48bd-b980-cc72957134fd,2024-06-04,Same Day,Andrea Luna DDS,Corporate,Central,Furniture,Bookcases,755.6,1,0.22,-190.38
+4222b4e9-ff32-4605-afa1-fa2280364fee,2024-09-14,First Class,Johnny Acosta,Home Office,West,Office Supplies,Binders,1998.81,3,0.13,173.74
+49209676-9343-4735-8bd5-fee366a65cfd,2024-11-09,Standard Class,Michael Clark,Home Office,Central,Furniture,Chairs,1162.96,10,0.03,308.37
+58040528-bc36-4aec-8db8-52e96c41dd16,2024-10-02,Second Class,Terry Johnson,Consumer,East,Furniture,Bookcases,1227.31,9,0.05,285.07
+49d3f8f7-d096-4b86-8008-5c939ff4805b,2024-10-11,First Class,Anne Burns,Home Office,East,Technology,Copiers,1936.52,3,0.14,436.62
+b7570d10-2ee1-4e0c-9c39-b7e3559ae271,2024-07-14,Second Class,Michael Bishop,Corporate,East,Office Supplies,Paper,1076.57,3,0.02,218.45
+635e6a1b-c075-4750-b341-174ab111be87,2024-10-14,Same Day,Tina Ortiz,Consumer,West,Furniture,Chairs,1168.55,7,0.12,17.36
+b6c92d3a-4d66-43f5-b573-3d038cdf29a0,2025-03-27,Standard Class,Maria Martinez,Corporate,West,Technology,Accessories,834.44,10,0.07,-40.79
+822beed6-dbd1-49ab-8113-01a3dfed2c5c,2025-04-21,Same Day,Fernando Peterson,Consumer,West,Office Supplies,Paper,731.07,1,0.29,343.36
+3025a97b-b7ed-469f-a843-71affd57b315,2024-12-11,Standard Class,Michael Diaz,Home Office,Central,Furniture,Bookcases,474.31,2,0.24,-31.68
+d299fd77-fdcd-4f2e-bf6d-2b0a079a4ab2,2024-09-11,First Class,Erik Andrews,Consumer,South,Office Supplies,Labels,1022.55,3,0.14,166.63
+155217dc-ad6b-45f6-a831-633113821096,2024-05-19,First Class,Gregory Ross,Corporate,South,Technology,Copiers,339.05,3,0.29,227.48
+0e5bcdf9-83bf-40ae-b82a-847493021632,2025-04-24,Same Day,Melissa Cole,Consumer,South,Furniture,Tables,1736.81,7,0.09,325.1
+0eb7910a-4627-4a93-8529-fd5415967ea5,2024-10-11,First Class,Sarah Myers,Consumer,Central,Office Supplies,Labels,606.3,1,0.15,391.0
+a4115fa2-7a91-4d7e-8f20-a4fa2f7f9fd2,2024-10-28,Standard Class,Jasmine Thompson,Corporate,South,Technology,Copiers,1907.4,5,0.17,270.12
+3c7a5ff2-ec08-4276-80ba-38a59a73e53f,2024-07-15,Second Class,Brittany Holland,Home Office,South,Office Supplies,Paper,1515.75,1,0.1,139.66
+a00821ad-610e-466f-976f-964046ffc7cc,2024-12-14,Second Class,Diana Harris,Consumer,Central,Furniture,Chairs,739.09,1,0.15,413.45
+bc2322a2-aa01-40c8-9099-321ba09d43e5,2024-05-25,First Class,Olivia Morrison,Consumer,South,Office Supplies,Binders,1952.74,4,0.23,15.53
+812a3c99-37a2-4f88-b914-17ee825fa8b6,2024-07-09,Standard Class,Adam Castillo,Consumer,West,Technology,Phones,1121.24,8,0.03,408.97
+fd03c472-5f15-448b-8226-04e40e90d3a3,2025-04-11,First Class,Mary Bauer,Home Office,East,Office Supplies,Labels,688.38,8,0.12,344.17
+c841961f-b5ff-4b9c-9bc2-ac8975d95ee8,2025-02-09,First Class,Nicole Nguyen,Corporate,East,Furniture,Bookcases,1551.13,6,0.17,118.96
+ef08876f-eb4f-4991-9578-46dbf23d5c20,2024-07-18,First Class,Ellen Nelson,Consumer,South,Office Supplies,Binders,729.03,3,0.25,-87.73
+7a646c31-8d22-4ccf-be72-0de0473923e3,2024-11-20,Second Class,Rhonda Rose,Consumer,Central,Office Supplies,Labels,140.62,1,0.2,428.84
+1f2f1cea-3fbe-471c-b480-707345faa50b,2024-06-03,Same Day,Natalie Mann,Consumer,South,Furniture,Bookcases,322.33,10,0.21,268.13
+cb72ab14-417b-407e-92ec-baae6e1bc30c,2024-10-12,Second Class,Sarah Espinoza,Corporate,South,Technology,Phones,1464.28,10,0.16,-50.13
+77b48250-e71f-4ab1-8295-2435223b6157,2024-12-16,First Class,Michael Williamson,Corporate,East,Office Supplies,Binders,850.93,2,0.2,-101.16
+8c193ea6-ce4e-480d-94c3-b56da6b0007b,2024-10-13,Standard Class,Mark Butler,Consumer,West,Furniture,Bookcases,493.71,1,0.04,436.59
+77996130-a7a2-434d-bff7-b58075aa5b1e,2025-04-09,Second Class,Michael Hernandez,Consumer,West,Office Supplies,Paper,679.4,9,0.2,-131.18
+12e14698-4b15-4679-9222-e871aada59e6,2024-09-04,Second Class,Mr. Alexander Khan,Consumer,East,Office Supplies,Paper,1422.87,5,0.15,94.07
+70f35219-c845-4ce4-8b25-2f154e2c9303,2025-02-12,First Class,Joel Webb,Consumer,Central,Office Supplies,Binders,1357.91,6,0.26,254.79
+f9881150-df06-48e5-b348-518fbd1043bd,2024-07-28,Same Day,Kelsey Madden,Home Office,Central,Technology,Copiers,606.96,7,0.17,-132.33
+76573b9e-9816-45c4-80f1-3a20508bf831,2025-02-17,First Class,Joshua Hall,Corporate,West,Furniture,Tables,675.67,6,0.27,429.99
+f5f4734c-db43-4982-a05b-f358c1b0d018,2025-05-09,Same Day,Miguel Taylor,Corporate,Central,Technology,Copiers,1205.51,1,0.07,55.4
+a41a88c4-68f0-4235-b4bd-f313938d335a,2024-05-14,Same Day,Matthew Baldwin,Corporate,Central,Office Supplies,Labels,1876.53,6,0.21,458.25
+a59be9d6-0a50-4b6a-9d15-0b7177a620c8,2024-05-26,First Class,Matthew Brown,Consumer,West,Office Supplies,Labels,518.77,10,0.28,10.45
+78d4979a-4341-4419-a1d7-4df9da0305de,2024-06-03,Same Day,Meagan Hall,Corporate,Central,Furniture,Tables,275.93,8,0.07,166.29
+1858f755-a2a3-4db6-87b2-a137bdfdcc04,2024-05-13,First Class,Mark Ellis,Consumer,West,Technology,Accessories,631.79,1,0.12,120.65
+654b01a2-6b30-416d-92a7-3ddc4b0151ef,2024-07-10,Second Class,Julie Carpenter,Consumer,East,Furniture,Chairs,1332.11,2,0.2,122.82
+a4eacb7c-9273-4dd2-a711-10042215c965,2024-08-20,Standard Class,Connie Carter,Consumer,Central,Office Supplies,Binders,1260.39,9,0.15,100.08
+d43f23d1-ed85-43ff-88c1-860cf161d39e,2024-08-12,Same Day,Kevin Jones,Home Office,West,Office Supplies,Labels,1487.69,9,0.02,52.27
+629a4a9e-dbb1-4651-a0ce-56528bcaf1b0,2024-07-01,Standard Class,Donald Thomas,Home Office,South,Furniture,Chairs,507.38,6,0.12,116.41
+2df2059b-79b6-4bbe-a730-0d88b8eb6794,2024-06-11,Standard Class,Rebecca Weaver,Corporate,East,Office Supplies,Binders,1856.56,7,0.01,101.17
+e39ced2b-92b7-4abe-98c1-a00f1d56e498,2025-05-02,Same Day,James Hammond,Consumer,South,Furniture,Bookcases,32.11,3,0.24,79.84
+8b541730-770e-44d6-898a-ed7a60ec286a,2024-07-09,Second Class,Nicholas Moreno,Home Office,East,Technology,Copiers,215.31,8,0.15,414.01
+992d6398-ad49-4bb4-a0a2-f95fd13ac32a,2025-02-17,Standard Class,Charles Perez,Home Office,South,Furniture,Bookcases,1955.43,6,0.08,-69.5
+4497a17f-3224-43f4-8f86-f1e1e85b57e3,2024-10-14,Same Day,Stacey Schwartz,Corporate,West,Furniture,Bookcases,1132.32,9,0.0,420.02
+09a9eb4e-2a88-486c-931f-4c7b1b431d65,2024-07-10,First Class,Kristopher Moreno,Home Office,West,Office Supplies,Binders,941.82,10,0.26,349.3
+0b263f4a-aa3c-4489-a5cd-b5995c4f940e,2024-05-24,Second Class,Jerry Stewart,Corporate,Central,Technology,Phones,949.94,4,0.23,402.79
+9fb9805c-fee5-4088-8783-55615ce1db60,2025-04-10,Standard Class,Wendy Young,Consumer,Central,Technology,Copiers,1702.67,4,0.12,496.15
+4fe233dc-cc6d-4201-a1c5-bcdea9030312,2024-10-31,Standard Class,Heather Tucker,Home Office,East,Office Supplies,Paper,111.42,1,0.24,209.09
+23f160f3-5d90-4823-b1da-46e4a8428ddf,2025-02-22,Standard Class,Robert Grant,Corporate,South,Technology,Copiers,1050.69,5,0.06,-68.83
+af0e572f-5c2d-4962-ba02-e73df0cba63a,2024-12-10,First Class,Francisco Velazquez,Corporate,East,Office Supplies,Binders,1060.14,9,0.13,468.9
+de99b2ba-7eb3-4b55-81fd-a4cb15d9635d,2025-03-12,First Class,Sarah Morgan,Home Office,West,Office Supplies,Binders,1955.13,6,0.11,-179.49
+51b09e19-46be-4cc0-9dc6-9dbb62c6da90,2025-04-30,Second Class,Martin Ford,Consumer,West,Furniture,Tables,1774.55,10,0.27,77.75
+3abc7fae-f78b-4ee7-a6b6-1d606726aec4,2025-02-25,Standard Class,Shawn Ponce,Corporate,Central,Office Supplies,Labels,297.78,10,0.02,25.85
+1a25f97c-1298-4bd4-b753-229dc1e95653,2024-07-25,Same Day,Terry Woods,Consumer,East,Technology,Accessories,1243.83,6,0.24,209.5
+e3b9d757-ed57-4bef-832e-8142d4fea848,2024-08-20,First Class,Crystal Everett,Consumer,West,Office Supplies,Labels,59.52,1,0.08,-64.27
+3b27e2f6-8d0a-4653-9053-0d55efe26c3d,2024-12-16,First Class,Jeffrey Davis,Consumer,East,Office Supplies,Binders,1730.58,8,0.05,424.25
+7f22dbcd-f346-40cd-bdf1-e9c44a5719ce,2024-05-28,Same Day,Tracy Green,Corporate,South,Technology,Copiers,342.13,2,0.29,426.87
+8a114c15-29a3-4bea-bab7-0f94e947c41f,2024-12-16,First Class,Christopher Rogers,Home Office,South,Furniture,Bookcases,1565.43,3,0.06,191.49
+6c3f12f6-0e6a-4ddd-9370-d3b99e40e279,2024-05-12,First Class,Stephen Watson,Home Office,Central,Furniture,Tables,1825.44,8,0.29,-137.46
+fc7634b4-b2c5-4599-8aac-7c0ae7c04d55,2024-07-24,Same Day,Kimberly Henry,Home Office,West,Furniture,Bookcases,901.8,10,0.12,110.22
+a7fd65e8-6e26-4c48-8f22-8744114de16e,2025-02-18,Same Day,Alyssa Jones,Consumer,West,Office Supplies,Binders,1333.5,1,0.03,121.61
+cb80d869-33e4-4a6e-bc98-656794a92aea,2025-03-30,Same Day,Dr. Jamie Chavez,Home Office,East,Office Supplies,Paper,883.65,5,0.17,107.57
+360fdd80-33f1-49f6-931e-6aca954f1858,2025-01-09,Second Class,Bobby Spencer,Corporate,West,Office Supplies,Labels,360.21,5,0.09,-52.17
+ff8c3f16-0e33-409a-a568-945f458522f9,2024-11-19,Standard Class,Christopher Lang,Home Office,East,Furniture,Chairs,534.64,7,0.11,-84.65
+968addc6-19e8-4964-99ba-b89de2a46c18,2024-11-16,Second Class,Jeffrey Ramos,Consumer,West,Furniture,Chairs,1072.23,3,0.29,237.87
+d9f68b08-e725-427c-840e-8b39df23c570,2024-07-24,Same Day,Philip Bailey,Consumer,Central,Office Supplies,Paper,15.61,10,0.0,70.79
+16833b53-e42d-4a98-8114-796ed7383b47,2025-03-05,Same Day,Brandon Garcia,Corporate,East,Furniture,Chairs,1999.4,10,0.17,409.48
+aa97602f-19e2-4ab1-944a-6d3e9692561e,2025-03-24,First Class,Patricia Parker,Home Office,South,Furniture,Chairs,1248.03,7,0.01,-31.63
+dc9f599b-c939-433d-bc5a-7c47ffc2b266,2025-01-02,Second Class,Madison Smith,Home Office,Central,Furniture,Bookcases,1715.36,6,0.26,342.32
+8f28ebf3-3a7d-4bd4-a0f1-5512c6c9fe86,2024-07-28,Same Day,Kathy Murphy,Corporate,Central,Office Supplies,Labels,1663.61,4,0.21,-75.75
+b4978588-9b89-497d-ac3d-5082357a5db5,2025-01-30,Standard Class,Zachary Merritt,Home Office,Central,Technology,Copiers,11.89,10,0.29,-74.17
+2703a189-f7fa-45a0-a819-f0a595192c8b,2024-12-02,Same Day,Luis Hernandez,Corporate,Central,Technology,Copiers,33.15,9,0.22,359.07
+7f142c72-0ada-4b2d-8cef-b7cc994992a3,2024-05-18,First Class,Jeff Adams,Home Office,Central,Furniture,Chairs,408.89,6,0.23,-28.88
+f456ad1f-be51-4095-8f0c-1b449bd8e6f0,2025-03-27,Standard Class,Melinda Waller,Consumer,Central,Office Supplies,Labels,365.94,8,0.11,-143.75
+cd8b3ce2-50eb-49df-a3ee-b6367ad44e73,2024-12-16,Same Day,Steven Alvarado,Consumer,Central,Office Supplies,Paper,981.77,4,0.11,330.06
+4e1a26b2-60df-4759-8e40-834b6148e8b1,2024-10-01,Same Day,Aaron James,Consumer,South,Furniture,Bookcases,810.61,1,0.0,-159.88
+9d148279-0d24-4b82-97e6-193bfd2eaa1d,2024-06-26,Same Day,Michael Allen,Home Office,South,Office Supplies,Binders,1501.6,4,0.17,25.95
+6d3dc929-6af5-4cf1-a3ed-1ddd222dab98,2025-02-10,Same Day,Tyrone Grant,Home Office,Central,Technology,Copiers,1664.04,9,0.11,256.44
+74b4c6e6-8db4-42ef-82a2-3566d5b040db,2024-07-21,Standard Class,Michael Bishop,Consumer,East,Furniture,Tables,231.87,5,0.25,-166.05
+e715b3c1-50a3-4593-9d1f-27d9202c4685,2025-01-29,Same Day,Raymond Rivera,Consumer,South,Office Supplies,Paper,632.51,8,0.29,74.47
+dbba4e88-bfce-4c5b-91ce-ccac503c0bc1,2024-11-15,Same Day,Evelyn Byrd,Corporate,Central,Technology,Accessories,1650.68,4,0.05,-1.2
+57234337-fd88-4e62-b7e1-12651500aeaf,2024-12-15,Second Class,Joseph Jones,Home Office,West,Furniture,Tables,1919.11,9,0.06,-171.68
+4d335207-1bad-48b0-b9ca-c1ff6373f5c2,2024-09-03,Second Class,Timothy Buchanan,Corporate,East,Office Supplies,Paper,281.06,6,0.24,117.04
+fdc6ee9c-1890-4617-9bfa-f5c3ab32e522,2024-10-27,Standard Class,Troy Miller,Corporate,West,Furniture,Chairs,1558.8,3,0.05,177.83
+2e27ddcd-3cd8-45c5-b19a-d8f94f3b07a8,2024-12-16,Second Class,Amanda Larson,Consumer,South,Technology,Copiers,1836.86,7,0.21,66.63
+a98f9a59-8cd0-43b9-8ed3-58951f44164a,2025-05-10,Standard Class,James Schwartz,Home Office,West,Furniture,Bookcases,1257.77,7,0.1,351.04
+d701453e-98a0-438a-bedb-d95273c86d78,2025-03-16,Same Day,Brandon Castillo,Home Office,West,Office Supplies,Labels,200.15,5,0.19,-26.67
+12ad49c5-c38d-4e80-826b-1f126bef3504,2024-11-05,Standard Class,Martha Nguyen,Consumer,South,Furniture,Chairs,1388.52,4,0.0,74.06
+c5c38af9-c0ce-42df-a0ca-38bd16cd653c,2025-02-20,Standard Class,Kyle Bullock,Consumer,West,Furniture,Chairs,168.59,10,0.2,-139.74
+b1fdb20c-8843-497d-a104-21b42e57e234,2024-05-31,Same Day,Tiffany Stokes,Consumer,West,Office Supplies,Paper,1945.07,4,0.12,340.9
+c50ef03d-3350-4387-8e4f-43b7f9b65049,2025-01-28,Second Class,Shawn Solomon,Consumer,East,Office Supplies,Paper,779.88,3,0.13,423.15
+5430793a-df94-4252-8650-6eeb16807608,2024-07-07,Standard Class,Daniel Kennedy,Home Office,East,Office Supplies,Binders,1581.54,5,0.14,146.36
+1b8b20aa-cfe8-45ae-9fd5-0694990b5010,2024-06-16,Standard Class,Francisco Williams,Corporate,West,Furniture,Tables,1107.21,3,0.01,250.23
+31fde29d-a990-4bb4-b862-3dd29bcbd799,2024-10-09,Same Day,Kayla Bowen,Home Office,East,Furniture,Tables,230.66,6,0.19,-70.15
+4bcf6520-bf99-468f-9a91-cbdb77b25c61,2025-03-01,Standard Class,Rebecca Brown,Corporate,South,Technology,Phones,558.83,9,0.24,467.91
+4e5eca59-2bcc-4294-b2d8-c12f5d9ec73a,2024-11-26,Same Day,Lisa Griffin,Corporate,South,Furniture,Chairs,1538.1,10,0.24,357.39
+6edf3bab-02f0-492f-9f19-d96455e01465,2024-12-31,Same Day,Courtney Hill,Consumer,South,Office Supplies,Binders,1086.92,7,0.28,13.43
+db2261da-9c78-4b37-a15d-c8e65d6d5e01,2024-06-14,First Class,Holly Moran,Corporate,East,Technology,Accessories,403.36,1,0.1,-113.35
+99404d80-cb0c-4f22-8d63-15793cfc63fc,2025-04-03,Same Day,Daniel Ferguson,Consumer,East,Furniture,Tables,225.98,1,0.04,-148.89
+88fab53d-7e9f-4eac-be18-407d917cf29f,2024-11-13,Standard Class,Ruben Christian,Corporate,Central,Furniture,Bookcases,1356.5,6,0.23,43.22
+8a4628d6-5796-412e-85b3-ef70618f8c92,2024-06-22,Same Day,Sharon Christian,Corporate,West,Technology,Copiers,741.74,10,0.03,115.82
+7cb84797-a890-467f-92f6-19e95c3dfbff,2024-08-02,First Class,Susan King,Home Office,South,Technology,Phones,1563.6,10,0.28,-74.45
+6a164ba8-da6d-445c-90c0-50ca267564ed,2025-02-03,First Class,Kimberly Jones,Home Office,South,Office Supplies,Paper,1162.74,3,0.3,418.97
+25ec44b4-44e7-4713-af83-94499d9e202f,2025-04-09,Second Class,Debra Ruiz,Home Office,Central,Office Supplies,Labels,941.15,7,0.25,-188.03
+d1ce43f7-f26e-4317-8faa-e10ca5b037a3,2024-11-21,First Class,Tammy Lewis,Corporate,East,Technology,Copiers,791.28,9,0.26,25.84
+b2b2b8e5-885b-47e3-9ffe-f95d492da60b,2024-07-20,Same Day,Julie Palmer,Corporate,West,Office Supplies,Binders,1135.41,9,0.07,311.66
+7fc38968-7b38-4226-912d-1ead6f462ce3,2024-10-22,Second Class,Mary Rivera,Home Office,South,Office Supplies,Paper,533.05,6,0.08,-57.45
+146cc831-daf8-4041-83e7-e20a6793e128,2025-04-13,Second Class,Christine Jackson,Home Office,East,Office Supplies,Paper,1289.34,1,0.23,167.65
+954c23bd-0996-4b47-8828-563e8ca545a1,2024-05-24,First Class,Courtney Smith,Corporate,South,Office Supplies,Labels,10.5,3,0.15,264.82
+a088eab0-70bf-4720-b242-bda5c7a1b679,2024-09-27,First Class,Mary Johnson,Corporate,East,Technology,Copiers,1987.15,10,0.01,-128.1
+194c0f34-e81c-4874-afbf-c0dd8bee4445,2024-12-13,Same Day,Steven Trujillo,Home Office,South,Technology,Copiers,1244.7,7,0.07,163.97
+9fff7a95-f2d9-45c5-ac21-af903270fbe6,2024-09-22,First Class,Kathleen Williams,Consumer,East,Office Supplies,Labels,1920.83,3,0.28,398.24
+ba1bf762-550e-4767-ac82-d956fa55b65c,2024-08-01,First Class,Suzanne Carter,Consumer,South,Technology,Copiers,22.66,9,0.21,-141.99
+8be45fb6-ab10-4aca-bcef-fb4f6289762a,2024-06-19,First Class,Peggy Cox,Consumer,Central,Office Supplies,Labels,971.61,8,0.19,254.12
+9f188836-834e-43d9-bbbf-eab92331ed29,2024-11-10,Second Class,Anna Meyer,Consumer,Central,Technology,Phones,1262.43,4,0.11,140.93
+d3b23d71-3a28-46b0-ab87-b46b76d60214,2025-04-17,Second Class,Jenna Booth,Home Office,Central,Technology,Copiers,1810.31,3,0.12,150.32
+d2462769-fbb1-45d6-ab89-ae27479cb503,2025-03-11,First Class,Travis Carter,Consumer,Central,Technology,Phones,1914.15,5,0.25,44.04
+04fdd95f-bdd4-4e87-9cc0-8b120d10e6fd,2024-11-06,Standard Class,Jim Berg,Consumer,East,Office Supplies,Paper,1253.98,3,0.24,130.81
+0327ae88-c6e4-4a56-8369-cee543ccf53f,2024-12-15,Same Day,Jonathan Schultz,Home Office,West,Technology,Phones,772.57,3,0.01,406.36
+ac48992a-95ed-4a8f-a1a3-7725e88088b2,2025-05-02,Standard Class,Angela Walsh,Corporate,West,Furniture,Bookcases,1873.57,6,0.21,215.15
+f8601721-1a26-4c0a-9c11-40f0091ebc84,2025-01-14,Same Day,Tiffany Davis,Corporate,West,Technology,Accessories,1306.69,6,0.17,101.46
+fadc4e41-a551-48e1-8ce7-0b79ee20cf3d,2024-10-25,Second Class,Lisa Jones,Home Office,East,Office Supplies,Labels,1388.55,3,0.22,-84.45
+224dcd26-7871-4f03-b7d5-1d3875fdd827,2024-07-17,First Class,Debra Mckenzie,Corporate,South,Technology,Copiers,834.24,7,0.03,-61.05
+391fa464-9e34-4874-82e9-ba5b6a204f6a,2024-11-17,Second Class,Patrick Tran,Home Office,South,Furniture,Tables,1987.83,3,0.04,239.76
+0c7b7731-f6c1-4ef9-a1b9-6f06577f0486,2024-08-11,Standard Class,Shelley Arroyo,Home Office,East,Technology,Phones,492.33,9,0.15,80.56
+663c58c9-c1a9-4897-a3cf-7fe614b7fb9e,2025-04-27,Second Class,Brandon Jordan,Consumer,East,Technology,Accessories,462.41,6,0.29,288.17
+9a89129e-7a30-4790-83a8-f40cf002c09d,2024-08-14,Standard Class,Kristi Tucker,Consumer,East,Technology,Accessories,282.68,10,0.25,-16.43
+6461457b-4527-45fc-840d-5b18fc36dd52,2024-09-29,Same Day,Derek Osborne,Home Office,East,Furniture,Tables,1844.57,7,0.26,469.1
+591f15fd-5920-4bc1-b89a-1889f32a67d3,2025-03-26,Same Day,Denise Glenn,Consumer,Central,Office Supplies,Labels,1639.06,5,0.2,-79.88
+2aa7e929-aab7-42b2-a4c7-2518f2f0a755,2025-04-06,Standard Class,Nicholas Acosta,Corporate,West,Technology,Copiers,224.04,2,0.21,341.18
+bce06e9c-8f28-42e3-8871-ffdf3d2eef08,2025-02-17,Same Day,Cody Mann,Consumer,West,Office Supplies,Binders,592.99,8,0.02,328.67
+efe22bf6-77c3-4eab-812c-b61351bbfd06,2025-02-06,First Class,James Nelson,Home Office,West,Furniture,Bookcases,488.32,3,0.29,421.23
+8b8c604a-55c6-403c-97cf-e24204480dea,2024-07-12,Standard Class,Jordan Stone,Corporate,South,Office Supplies,Paper,979.41,4,0.3,154.18
+d87a060f-591f-4432-8b0f-0ee3557bf8f8,2024-10-11,First Class,Meghan Ball,Consumer,East,Furniture,Tables,1937.97,1,0.01,-172.93
+6d4917fa-a9e2-47db-a8e0-bcca962ae162,2024-10-17,Standard Class,Stacy Weber,Home Office,South,Furniture,Chairs,723.85,9,0.02,-91.69
+91062d4f-eb70-433c-ac2a-a5c759fc7621,2024-08-06,Second Class,James Knox,Consumer,South,Furniture,Chairs,736.52,1,0.25,143.22
+530f9347-89c0-4469-b5e4-925182c61927,2024-05-14,Second Class,Heather Fisher,Corporate,Central,Office Supplies,Binders,1172.99,7,0.09,98.15
+6ec99fc3-09dd-45f6-977f-f8e0a48d6e99,2025-03-01,First Class,Joshua Bray,Corporate,West,Furniture,Bookcases,1776.7,10,0.15,353.86
+f968b0ca-64cb-4fe1-a56c-adda6aa608dd,2024-08-08,First Class,Katherine Douglas,Corporate,East,Office Supplies,Binders,69.67,1,0.0,248.07
+9b6e05b5-2285-4b0e-8ec9-017899b9dc59,2024-06-14,Standard Class,Justin Mullins,Home Office,West,Technology,Phones,371.82,3,0.19,127.93
+3fa83c1b-4cd0-4b17-87c9-f222a2102f27,2024-10-16,Same Day,Mindy Robinson,Consumer,Central,Office Supplies,Paper,211.35,3,0.13,-124.99
+a6d3c45b-5c4f-45df-9c8e-f3a7815353f2,2025-01-02,Same Day,Joshua Davis,Home Office,West,Furniture,Tables,1658.72,7,0.09,182.27
+5fb8f1a8-1f07-4919-b5b1-961a642a6011,2024-05-19,Same Day,Kyle Freeman,Corporate,South,Technology,Accessories,1772.15,5,0.11,166.27
+571911cf-9f74-41ff-a78d-9b5441b16b0f,2025-01-27,Same Day,Sabrina Allen,Consumer,South,Technology,Accessories,768.13,8,0.19,413.92
+560f0542-c774-4317-8e21-7e281c6b9516,2024-07-23,Second Class,Natalie Carey,Home Office,South,Technology,Accessories,1450.66,2,0.03,360.56
+f23844f6-40f9-46c4-ba54-47bf715531b7,2025-04-05,Same Day,Timothy Gross,Consumer,West,Technology,Copiers,1437.28,10,0.07,404.87
+0b08f79e-2619-4a3a-b9fe-8fea9e01c76c,2025-03-08,Same Day,Jamie Lewis,Corporate,South,Office Supplies,Labels,64.3,3,0.15,154.82
+d2cd755a-222f-4ab4-9108-54366717cc55,2025-02-25,First Class,Kelly Carroll,Consumer,East,Technology,Phones,1492.52,4,0.16,291.48
+5a0ccba5-ad4b-4cc1-b2d8-9da69d9f2fc7,2025-04-22,Standard Class,Cassie Reynolds,Corporate,East,Office Supplies,Paper,315.93,9,0.02,-98.01
+6b59eabe-2d30-4ed9-bbc3-22d34018c266,2024-06-19,Standard Class,Jamie Johnson,Corporate,Central,Technology,Copiers,559.0,9,0.0,47.16
+82451c7d-d3a6-4d84-8cf6-3336ae240c9d,2024-07-13,First Class,Francis Mueller,Corporate,West,Office Supplies,Labels,1972.69,9,0.05,325.56
+5e3a2df6-f169-49c8-aaaf-65825ce2e6f5,2025-01-25,Standard Class,Cheyenne Mills,Corporate,South,Office Supplies,Paper,1948.88,1,0.2,429.38
+367b59d3-9d02-4c11-9b9e-c3227dfa0f1a,2024-08-13,First Class,Austin Webb,Consumer,West,Technology,Copiers,1008.14,5,0.15,309.18
+5f6e9126-b9d7-47b5-8977-29bc452d5cd1,2024-12-14,Second Class,Joshua Jimenez,Corporate,South,Technology,Accessories,1632.42,4,0.01,-103.7
+2e708d84-025e-458c-be0d-79eacf12b2f6,2024-06-29,Same Day,Charles Mullen,Corporate,West,Office Supplies,Paper,1037.73,4,0.27,335.53
+34f2508e-b9a3-47f9-a735-9d5903f23ce1,2024-06-09,Standard Class,Todd Clark,Corporate,South,Technology,Copiers,598.94,3,0.16,280.89
+5cd02fd4-bc6d-4ac9-ae61-c604cd38b46e,2024-07-03,Same Day,Christina Gutierrez,Home Office,West,Furniture,Chairs,1271.45,8,0.2,202.14
+815cb6d6-936b-4ee9-abcc-6f408910ebdf,2024-07-17,Standard Class,Cynthia Mclaughlin,Home Office,West,Technology,Phones,1819.15,2,0.04,454.96
+55d669f6-6e30-4560-91e9-726c09d4860b,2025-01-04,Second Class,Michelle Scott,Corporate,South,Technology,Phones,1224.28,6,0.21,-50.25
+fd6bfb30-95ee-4fc9-8a07-301212649334,2024-05-18,Same Day,Kelly Parker,Consumer,Central,Furniture,Bookcases,359.65,9,0.17,-32.18
+d54ed8c1-d091-48c1-a1fb-a86e685af2dc,2024-11-13,Second Class,Shane Horn,Home Office,East,Office Supplies,Labels,156.31,2,0.17,198.25
+785157a4-e9af-4273-883f-6cf2c05befd2,2025-04-20,Same Day,Patricia Lopez,Corporate,Central,Technology,Phones,1476.41,9,0.2,415.93
+512cb406-b15c-4a59-b051-2981df6680e9,2025-02-14,Same Day,Ronald Lucas,Home Office,West,Office Supplies,Paper,1165.95,4,0.04,-41.84
+e05e8d46-6210-4803-bd04-55228ca7591b,2024-11-26,Standard Class,Thomas Gibson,Corporate,South,Office Supplies,Paper,932.0,2,0.11,-168.09
+d1c2b713-35fb-43fd-94d9-0fbe0cae8459,2024-10-07,Second Class,Jessica Avila,Home Office,South,Furniture,Chairs,939.98,8,0.06,419.11
+2701d61f-bf4c-4bab-b6e5-f15c2d010dd2,2024-09-10,Same Day,James Turner,Corporate,East,Technology,Phones,120.63,1,0.13,248.87
+3c1aa60f-0794-46e3-b749-1c1219165d7a,2025-04-03,First Class,Patricia Sloan,Corporate,East,Furniture,Tables,1342.33,9,0.19,-136.17
+e19e8dad-8495-4daf-a8c5-46e1ad3d0aad,2024-11-19,First Class,Margaret Davis,Home Office,East,Furniture,Chairs,1988.94,8,0.24,264.79
+5a7362e7-f0e0-403d-b4cd-8f4a4c921f83,2024-05-29,Same Day,Jason Shaw,Home Office,East,Technology,Phones,1220.82,10,0.15,2.37
+708a710e-3308-4717-a2e9-bee77f888876,2024-10-12,Same Day,Kathleen Clark,Corporate,East,Furniture,Tables,144.74,2,0.24,377.54
+72bf900a-1657-458a-8890-139b8a6a3bd7,2024-05-14,First Class,Jacob Miller,Consumer,South,Office Supplies,Labels,1091.77,8,0.26,454.32
+25fb0b99-6d0f-4d45-b419-32a34609332d,2024-09-23,First Class,Kelsey Short,Corporate,Central,Technology,Accessories,1762.17,1,0.03,94.99
+1e31f11f-e71a-4a87-b6a5-82c111d1f618,2024-07-03,Second Class,Daniel Schultz,Corporate,Central,Technology,Copiers,614.36,7,0.2,314.98
+20437a10-1b3c-4ac4-8f22-91c34970919b,2024-07-23,Standard Class,Thomas Larson,Home Office,West,Furniture,Chairs,524.55,1,0.24,-106.53
+ff54e8f1-aa09-467c-be16-ea7ca9ed2f49,2024-06-22,First Class,Jack Smith,Home Office,West,Office Supplies,Paper,1955.57,8,0.13,192.7
+1bb1cb6c-776b-4464-bc7a-8b39e801a100,2025-04-06,First Class,Kevin Hernandez,Home Office,West,Office Supplies,Binders,1946.33,10,0.04,384.82
+d055acaf-98e4-44b8-a432-08aee2537a22,2024-12-23,Standard Class,Brenda Smith,Home Office,Central,Office Supplies,Binders,406.32,3,0.19,-99.12
+c5d020d2-06d9-4c02-8b17-f2f642fd0573,2025-02-08,Second Class,Chelsea Hancock,Corporate,East,Technology,Copiers,1152.22,4,0.26,342.42
+797b1cc8-1eee-46ac-9ca8-8f65585cd2e3,2024-07-18,Same Day,Jane Santiago,Consumer,West,Office Supplies,Paper,1884.03,2,0.27,-114.45
+7b06768d-a522-4564-9f47-fb9442609c58,2025-02-03,First Class,Melissa Bailey,Corporate,South,Furniture,Bookcases,730.0,9,0.11,74.54
+fcf4d959-1aa2-44bd-b3ff-499ed893e671,2024-07-16,Standard Class,Cynthia Reed,Consumer,South,Office Supplies,Paper,1018.85,7,0.12,447.54
+45c48455-a567-489f-a5ea-0454c1c75e8f,2024-05-19,Same Day,Crystal Mcdaniel,Corporate,Central,Office Supplies,Paper,332.75,1,0.11,8.52
+21529ae0-0381-4701-8772-cba384b26e1d,2024-05-22,Second Class,Sabrina Smith,Consumer,Central,Technology,Copiers,993.91,3,0.07,307.09
+ad6fd109-afbd-4275-a9a6-f7592022f1e1,2025-01-17,Same Day,Ashley Mendez,Corporate,East,Office Supplies,Binders,726.2,3,0.29,212.04
+e9c5142c-aa77-4e77-a914-bae868f72023,2024-06-08,Second Class,Deborah Murphy,Consumer,East,Office Supplies,Binders,698.94,2,0.04,-105.09
+82c180e8-8be1-48ab-ac02-63cb4cf06bae,2024-10-26,Standard Class,William Myers,Corporate,West,Office Supplies,Binders,1922.51,7,0.05,-81.56
+f30d8334-6dfe-4955-b163-c3d2a58559c3,2024-12-03,Standard Class,Catherine Baker,Corporate,Central,Technology,Copiers,1868.4,5,0.08,-54.45
+5d31b141-9c84-4ef5-b0a5-a75e8cfd2023,2025-01-13,Same Day,Kimberly Greer,Home Office,South,Technology,Copiers,1108.65,3,0.01,-27.87
+e6c0954d-ae00-45c9-8eb6-713a1e182b84,2024-08-11,Standard Class,David Tucker,Consumer,West,Office Supplies,Paper,1690.91,4,0.18,-80.7
+6d07db27-940e-434b-b21a-95e3e21fd091,2025-03-08,Second Class,Benjamin Maynard,Consumer,West,Office Supplies,Paper,279.02,6,0.26,279.24
+b187197f-1f93-4dd8-9dcf-18c709b989c6,2025-02-22,Same Day,Michelle Harris,Corporate,West,Office Supplies,Paper,134.97,2,0.27,209.73
+3d2725db-f411-442a-952d-4335e9d3bc79,2024-11-12,Second Class,Bob Collins,Home Office,Central,Office Supplies,Paper,1712.24,6,0.2,242.26
+a58492b1-caaa-4f28-9c0a-f3e4f23999b4,2024-08-05,Second Class,Dean Jackson,Home Office,South,Furniture,Bookcases,602.61,2,0.09,-141.89
+f75e23dd-4de9-4ede-9a47-69d08e910e87,2024-05-17,Second Class,Diana Miller,Home Office,East,Technology,Phones,1873.93,3,0.18,-101.74
+e4f3904a-c9a5-42ae-b978-fb0704c423a4,2024-12-01,First Class,Frederick Robinson,Corporate,South,Furniture,Bookcases,892.32,1,0.25,41.57
+4471b7cd-be2d-4041-8173-41cf24daa87d,2025-04-10,Second Class,Karen Roberts,Home Office,South,Furniture,Chairs,1071.33,8,0.29,-169.44
+b184c640-c041-46bb-a1ed-8f416d36a9d6,2025-04-16,Second Class,Kathy Ramirez,Consumer,East,Technology,Phones,1405.94,1,0.14,-64.58
+1c971cde-9c02-420c-accc-a00a45cb37b0,2025-01-22,Second Class,Danielle Lewis,Corporate,Central,Technology,Copiers,552.17,3,0.11,44.11
+1c65cd22-559e-4280-b9ed-79a06a9b5c28,2024-08-27,Second Class,Justin Ochoa,Consumer,West,Office Supplies,Labels,1865.51,2,0.07,-153.61
+efb1d313-9c29-4f88-8345-4f1e4e0e7250,2024-10-07,Same Day,Blake Turner,Consumer,South,Furniture,Chairs,1232.43,7,0.27,170.05
+9ca014a9-b870-467d-a593-11b27bd816ee,2024-10-05,First Class,John Bender,Consumer,East,Furniture,Chairs,1342.39,9,0.26,-76.41
+28a72ffa-2e59-4a6a-aba0-1fdb65b39a9d,2024-10-28,Same Day,Stanley Reed,Consumer,West,Office Supplies,Labels,725.97,6,0.02,60.16
+a6b18de5-da8f-4847-96e9-4a443fae8844,2025-03-06,Second Class,Daniel Hansen,Home Office,South,Office Supplies,Binders,1877.87,9,0.19,-111.94
+195226a3-b4a9-4f3c-862b-3b7b30df78ad,2025-04-21,Second Class,Andrew Perkins,Consumer,South,Furniture,Bookcases,334.55,2,0.26,-76.54
+518b01fa-421c-4c7b-b9e7-44a025a4ee70,2025-05-02,Second Class,Melissa Butler,Home Office,East,Office Supplies,Paper,263.99,6,0.08,218.0
+36d6e8cb-9878-4b45-ab67-139f22fe0586,2025-01-24,Same Day,John Baldwin,Consumer,East,Office Supplies,Labels,55.63,2,0.16,40.07
+738c7492-871b-46d3-8510-1de9cad7eef6,2024-05-27,Same Day,Ashley Bean,Corporate,East,Furniture,Tables,52.28,8,0.22,359.45
+d1c1bf36-81cd-4ff1-bc09-2dc0e2990515,2024-07-12,Second Class,Amy Salinas,Corporate,West,Office Supplies,Binders,604.73,5,0.13,47.42
+ee2cf053-99f3-4a09-9639-1035f861341b,2025-03-02,First Class,Rebecca Norris,Consumer,Central,Office Supplies,Paper,850.43,2,0.13,367.05
+9bba87c1-8965-4f1d-a569-a2c2ffe2a216,2024-11-26,First Class,Arthur Wolfe,Corporate,West,Office Supplies,Labels,976.54,10,0.07,-114.55
+afc816e5-02bb-45b7-9a64-0fcafaed31d2,2024-06-04,Second Class,Timothy Williams,Consumer,East,Furniture,Tables,1767.21,5,0.05,421.32
+fe18fc29-1fee-4243-92de-0210acd34436,2025-03-24,Second Class,Alfred Melendez,Consumer,South,Technology,Copiers,1645.36,2,0.27,307.98
+8849d857-d415-4565-819b-04015ea09a70,2024-12-25,Second Class,Sierra Gonzales,Home Office,South,Furniture,Tables,129.02,3,0.27,397.99
+fdd60848-e478-4a29-966f-b00e190a0451,2024-07-31,Second Class,Raymond Patton,Home Office,South,Furniture,Chairs,292.96,10,0.16,198.11
+aa7d077e-ae47-4929-84eb-8097749eb657,2024-07-03,Second Class,Andrew Decker,Home Office,East,Technology,Copiers,1678.03,3,0.01,186.83
+53dd0e81-3ee1-40ff-a689-45516ae95e5f,2024-06-30,Same Day,Julie French,Home Office,East,Office Supplies,Binders,1972.31,9,0.13,339.76
+f44fbb5a-8441-4377-8ed7-921f7de89f63,2024-11-28,First Class,Gilbert Wilson,Home Office,South,Technology,Accessories,513.75,7,0.13,-143.4
+c3676835-e840-4afb-9738-e45ec89a994e,2025-02-06,Second Class,John Sutton,Consumer,West,Office Supplies,Binders,735.55,5,0.26,438.27
+dffc7a75-f6b6-412d-9e9f-1a8bdbb9ddf0,2024-07-29,Second Class,Danny Campbell,Corporate,West,Furniture,Bookcases,145.86,1,0.0,423.2
+5cf2a149-c06c-4656-b494-3e3e46a2ae91,2025-04-18,Same Day,David Sandoval,Home Office,South,Office Supplies,Paper,1212.06,9,0.16,148.1
+dfc3f3ce-c60a-4d3a-9a20-0feb3ba51394,2025-02-06,Second Class,Lisa Williams,Consumer,Central,Furniture,Chairs,1153.39,10,0.18,130.48
+28898aa6-3142-4a41-9769-be2736219408,2025-01-02,Second Class,Kayla White MD,Home Office,East,Technology,Copiers,637.23,10,0.06,179.78
+db809ecd-bbce-48d6-becf-81b969395774,2024-05-19,First Class,Frank Baxter,Corporate,Central,Furniture,Bookcases,1754.99,3,0.01,81.14
+5a8ddc8a-ab6f-4962-ae3d-efd809478286,2025-05-07,Standard Class,Steve King,Consumer,East,Office Supplies,Labels,853.3,4,0.12,314.82
+7acbe7f3-9de7-407b-aef0-0a4ebc6de781,2024-10-20,Standard Class,Nicholas Rios,Consumer,Central,Technology,Copiers,1619.57,8,0.0,1.5
+93c1e99d-2f30-4baf-a736-a7fd00da593a,2024-06-07,Second Class,Andrew Conner,Consumer,East,Office Supplies,Paper,1507.37,4,0.24,-23.46
+73aa2d6c-dd7b-4147-8569-1521967592e4,2025-03-14,Standard Class,Mark Erickson,Home Office,East,Furniture,Chairs,685.65,9,0.2,368.33
+1ff6d1f6-bebc-4bea-b63b-38582717c03e,2025-04-12,First Class,Cheryl Phillips,Home Office,East,Technology,Copiers,25.39,10,0.06,294.3
+99138ea3-626f-4ea5-a2b0-11799731e118,2024-11-19,First Class,Allison Wiggins,Corporate,East,Technology,Phones,378.42,4,0.13,311.7
+266a74e6-393d-4005-9818-8e2c982ed18d,2024-10-21,Same Day,Michelle Gonzalez,Home Office,West,Technology,Copiers,1133.51,5,0.01,144.56
+8198afcb-388e-4d14-b6da-c8cb4d2b9d27,2024-07-23,First Class,Nicole Vega,Corporate,Central,Furniture,Tables,787.72,9,0.17,162.98
+16fd1e30-452f-4fe5-a041-38beb5105cbb,2024-10-07,Same Day,Dr. Cynthia Osborne,Corporate,East,Technology,Copiers,214.91,6,0.23,473.93
+f27eacb1-48de-42f7-aca3-2171d0ce3e82,2024-08-26,Standard Class,Preston Davenport,Home Office,West,Office Supplies,Labels,796.85,7,0.27,35.36
+868bd2a4-97f2-4e7f-96ac-cc5ddd44ca42,2024-10-15,First Class,Megan Bernard,Corporate,South,Office Supplies,Binders,119.19,4,0.08,407.66
+2659ed70-92b9-4239-9f76-aa44dab3f69b,2025-04-01,First Class,Audrey Harper,Consumer,West,Technology,Accessories,1923.88,5,0.04,303.63
+800c86af-d576-4b93-97a0-7fb112405106,2024-10-17,Standard Class,Maria Wright,Corporate,Central,Technology,Accessories,1173.17,10,0.13,131.29
+e59c51ce-af9f-490e-97ec-90ddd85d3a6e,2024-05-17,Second Class,Julie Wallace,Consumer,South,Office Supplies,Binders,109.24,8,0.03,-31.78
+fa62266b-66a4-4dd6-aef8-21a1e2ac1be8,2024-08-24,Same Day,Shannon Burns,Consumer,South,Furniture,Tables,1489.32,6,0.24,-66.51
+eb77d441-e278-4e36-a4f3-cfb2b374e777,2025-01-16,Same Day,Laura Long,Consumer,East,Technology,Copiers,1899.33,10,0.25,459.19
+5434ee5b-d650-4d7c-ba34-fa16d5bba413,2024-09-16,Standard Class,John Schmidt,Consumer,East,Furniture,Bookcases,416.56,2,0.11,-46.74
+5bd3ed62-9d26-4322-92b9-57509f6b02f9,2024-06-28,Same Day,Monique Howard,Corporate,East,Furniture,Chairs,1841.95,3,0.11,-161.47
+7b58d18b-5a45-4efd-b0fb-5a6a74dd37bc,2024-06-25,Second Class,Anna Gray PhD,Consumer,South,Technology,Phones,1063.92,10,0.12,325.3
+fa432482-1a67-4cd1-8ca9-1bc5f34c980a,2024-08-23,Same Day,Robert Hayes,Home Office,South,Technology,Phones,1845.14,6,0.16,55.45
+0ee6e012-9071-43c4-8e25-a0e909cb34bf,2025-04-11,Standard Class,Richard Webb,Consumer,East,Technology,Copiers,549.62,5,0.1,-156.83
+aa4f1b35-0b02-4164-a2fa-5ac4c68d2b14,2024-07-25,Standard Class,Tim Phillips,Home Office,West,Office Supplies,Paper,481.95,4,0.02,476.49
+3bf842e5-2da0-4bd7-be64-92703f054d46,2024-12-04,Second Class,Stacey Bernard,Home Office,Central,Technology,Phones,620.05,6,0.3,342.35
+50033943-267b-41e8-9912-05c09e07b32a,2025-01-05,Standard Class,Joseph Bates,Home Office,West,Technology,Phones,525.06,3,0.01,119.08
+7fc21ecc-a772-41ee-b6e7-6b72c3a1821d,2025-04-25,Standard Class,Rose Montgomery,Home Office,West,Office Supplies,Labels,1930.78,3,0.13,392.23
+47683e8d-b1e5-4145-a69e-023131de1b18,2025-01-11,Same Day,Dennis Adams,Corporate,South,Office Supplies,Binders,762.84,5,0.29,127.56
+b60ca5a3-f4b4-483e-a260-c1cec04ee8fd,2024-10-31,Standard Class,Nicole Brooks,Corporate,Central,Furniture,Tables,732.57,9,0.24,359.85
+3c8c266d-6d70-403f-8efa-db869f7b0701,2024-10-31,Standard Class,John Mccarty,Home Office,East,Furniture,Tables,1836.11,8,0.08,249.52
+39375e7c-f31c-4d7d-9082-264072f717ec,2025-02-10,First Class,Jimmy Stafford,Home Office,Central,Furniture,Bookcases,741.5,4,0.08,453.93
+aa97fe4f-bde0-4065-a658-477b02f63b73,2025-02-13,First Class,Connor Hale,Consumer,Central,Technology,Accessories,1608.4,7,0.04,368.99
+41ff46c4-7e63-4eeb-be75-1626939ab9c2,2024-10-24,Same Day,Andrew Olson,Home Office,Central,Technology,Accessories,246.27,8,0.1,337.79
+f4c7d363-9980-48da-a30b-fd4235c8873c,2024-12-20,Standard Class,Alison Key,Corporate,South,Office Supplies,Paper,574.5,4,0.19,167.22
+973a629f-f450-4e8c-9094-f4cc9eeb00b6,2025-02-19,Second Class,Randy Holloway,Home Office,East,Technology,Accessories,360.48,6,0.21,273.4
+bc08b143-4966-4047-877b-29648ca44b42,2025-03-31,First Class,Brandon Hernandez,Consumer,West,Office Supplies,Binders,987.27,4,0.22,369.26
+2f12f96a-a09b-4be2-9198-76a630007331,2024-10-02,First Class,Steven Salinas,Consumer,West,Furniture,Chairs,1698.78,1,0.25,455.21
+bfc81b5b-bc16-4ccb-bc3c-db0e8d328894,2024-08-10,Same Day,Nathaniel Stevens,Consumer,West,Office Supplies,Labels,121.73,3,0.21,22.75
+a6cc3423-5837-4e92-9722-38491f8d304b,2025-04-25,First Class,Mary Wallace,Corporate,West,Office Supplies,Binders,202.44,6,0.17,-188.27
+ca2961e6-c285-4ba4-8024-c71283597867,2024-05-21,Second Class,Kelsey Mora,Corporate,West,Furniture,Chairs,1764.18,1,0.05,-125.15
+df5a9661-33ff-4b77-a9d0-c6134e16ae14,2024-06-09,Standard Class,Carlos Martin,Consumer,Central,Office Supplies,Labels,1084.05,2,0.06,416.78
+d7e9626f-407f-4c4c-8bf6-8096a8067a7d,2024-11-26,Standard Class,Pamela Jones,Corporate,South,Office Supplies,Binders,747.02,3,0.19,481.74
+135adb1c-d0cd-456b-89d5-d86df6b2b156,2024-09-28,First Class,Clinton Mccullough,Consumer,West,Technology,Accessories,773.92,10,0.07,136.58
+1df346f7-2855-4102-bbbd-ebef4b3a68c1,2024-09-08,First Class,Joel Nelson,Corporate,West,Technology,Copiers,1643.49,7,0.02,359.09
+b21cab68-9a50-44f5-92a4-877e98e28a82,2025-03-01,Standard Class,Trevor Smith,Home Office,Central,Technology,Copiers,1621.31,6,0.17,-140.16
+b49d22c6-4c2a-443b-bcc0-8d4676df692d,2024-12-24,Same Day,Sean Sharp,Home Office,South,Technology,Accessories,500.53,9,0.24,373.55
+9af684f2-8b36-4a8c-8d2a-1a6ae2d57265,2024-09-13,Standard Class,Mary Coleman,Corporate,West,Furniture,Chairs,850.26,10,0.02,325.98
+eb77640a-1577-4464-98ae-28c3f0a06eb4,2024-09-02,Second Class,Justin Bridges,Corporate,Central,Office Supplies,Binders,1561.73,8,0.19,-118.53
+8353e38a-1d6b-4596-844c-38d0d7ede5e9,2025-04-09,Standard Class,Christopher Brown,Home Office,East,Office Supplies,Labels,1670.23,1,0.1,369.3
+b146dd84-ae4d-4b9a-b376-886257e5fb2a,2025-01-21,Second Class,Robin Davis,Home Office,West,Technology,Copiers,677.16,4,0.23,393.23
+4d77e222-8729-4dc9-a06e-1a122252b143,2025-03-11,Second Class,Anthony Dennis,Home Office,East,Office Supplies,Binders,1259.29,7,0.15,431.11
+5f204af6-15d6-41e8-bc24-10110e038e77,2024-12-08,First Class,Nathan Lee,Corporate,Central,Furniture,Bookcases,1288.5,9,0.22,13.21
+94d484ca-7252-42ce-bca9-80d5050fad08,2024-08-04,Standard Class,Steven Sanchez,Consumer,East,Furniture,Chairs,1500.23,6,0.12,-150.75
+5fecd008-eb40-4143-9856-66acc6635f14,2024-08-05,Standard Class,Matthew Craig,Corporate,South,Furniture,Tables,1306.35,2,0.13,104.77
+c83fb08c-fd03-4d3a-8403-a9aa6a1b6f67,2024-05-17,Same Day,Katie West,Consumer,Central,Furniture,Tables,119.3,1,0.08,421.24
+20d2bffc-5466-4cee-9078-5c83ee909ace,2025-02-27,First Class,Terri Howard,Corporate,Central,Office Supplies,Labels,1084.53,8,0.14,-92.86
+cacda27c-6ab5-45d7-bfc0-32da13d84471,2025-02-21,Second Class,Christina Cole,Consumer,South,Furniture,Chairs,890.02,9,0.23,-160.25
+dcc7ca4d-0cbb-41c0-b29b-a7c74332899a,2025-02-02,First Class,Deborah Benjamin,Corporate,West,Furniture,Tables,1145.8,3,0.03,487.94
+749505d7-8d6c-4f0f-b849-9079abcb55f4,2025-03-14,Same Day,John Perez,Consumer,East,Furniture,Tables,677.51,5,0.22,-191.59
+49c7ba69-1233-4098-8822-aa23672e25ee,2024-12-28,Same Day,Martha Mitchell,Home Office,Central,Technology,Accessories,1646.81,1,0.01,127.32
+fa37663f-c0ef-4efe-a6eb-7d65a1750d09,2025-02-13,Standard Class,Kimberly Gill,Corporate,Central,Office Supplies,Binders,570.33,1,0.26,153.19
+28e50084-bab9-481f-aa72-422c4125b907,2024-06-14,First Class,Jack Joseph,Home Office,East,Technology,Accessories,493.63,5,0.28,391.47
+ec2dd721-3d2f-4a9e-8df7-8cbcd9fcbcf2,2025-01-02,First Class,Amy Torres,Consumer,Central,Technology,Accessories,378.93,5,0.03,132.59
+10559e2d-f1fc-4189-9043-30e491de7fc8,2024-08-28,Same Day,Joseph Gardner,Home Office,South,Furniture,Bookcases,197.97,3,0.12,25.97
+7995b71a-6928-4364-8f07-a3c36c89f136,2024-07-09,Same Day,Heather Evans,Corporate,East,Technology,Phones,780.28,8,0.21,-57.18
+b57b31b0-1d9b-4cbd-8ad2-b27cf63dd22d,2025-04-08,Standard Class,Danielle Lin,Consumer,West,Technology,Copiers,923.93,6,0.25,151.14
+7467b132-2367-4dc9-85c8-fd87f86e4fe2,2024-08-29,Second Class,Sonya Arnold,Consumer,Central,Technology,Copiers,41.72,9,0.17,-60.77
+75b17c2f-3704-46e1-8a7e-7ec7517d2f66,2025-03-09,First Class,Rachel Wright,Corporate,West,Office Supplies,Labels,970.98,7,0.09,-163.08
+9e66b3e4-6434-4764-922a-664d74b77f17,2025-05-04,Same Day,Cynthia Payne,Home Office,West,Office Supplies,Paper,1536.3,7,0.09,-116.06
+4c7f935c-86ee-46bc-9e1e-307f06c85de0,2024-09-07,Same Day,Tiffany Goodwin,Home Office,East,Furniture,Tables,1046.7,5,0.02,402.22
+13d66ee1-2174-493c-9d85-016c1e3e0604,2025-05-08,Standard Class,Dean Thomas,Consumer,South,Technology,Accessories,227.91,3,0.24,412.3
+f0247211-1218-44fb-b51f-f55b26febb94,2025-02-16,Standard Class,Kimberly Dougherty,Corporate,Central,Furniture,Tables,96.99,5,0.13,325.48
+fc663894-5de6-4e5e-839d-d2255c44506f,2024-06-24,Same Day,Jodi Nichols,Corporate,South,Technology,Accessories,1519.63,8,0.25,-32.87
+625160b9-e39a-4a42-9c8f-3447ce5451cc,2025-02-16,Standard Class,Angela Eaton,Consumer,East,Technology,Accessories,774.71,1,0.06,91.89
+4e4e0794-a9b9-4935-b275-5fdc5f5d3af1,2024-06-15,Standard Class,Jeffrey Sparks,Consumer,South,Furniture,Bookcases,283.24,4,0.14,-64.92
+ec30e493-3952-441f-b11f-87c421039aa7,2025-01-17,Same Day,Donna Fisher,Home Office,South,Furniture,Chairs,801.29,3,0.12,-177.27
+59c60ef0-e00c-46e0-a7b9-864e4e1af4ca,2024-06-16,First Class,Dr. Charles Hancock,Home Office,East,Technology,Phones,998.25,1,0.13,224.77
+4b92d34c-cd82-4e29-8537-e0663f188d9e,2024-07-05,First Class,John Hernandez,Corporate,East,Technology,Copiers,545.76,4,0.18,124.57
+03f9e648-6c62-48f4-8c4c-9bd0c91cb07b,2024-09-15,Same Day,Brian White,Home Office,Central,Furniture,Bookcases,928.16,7,0.1,-3.46
+8910ee95-c7eb-4222-a2a4-84dd0557796f,2024-11-24,First Class,Maria Saunders,Consumer,South,Technology,Accessories,1035.59,2,0.23,193.44
+b14517b1-7823-43f6-846a-f0977a37a6ba,2025-05-07,Standard Class,Javier Holland,Home Office,South,Office Supplies,Binders,1100.04,5,0.28,100.54
+e5822da5-abe9-48c3-b931-795899ecc0e3,2024-08-08,Same Day,Danielle Sullivan,Home Office,East,Technology,Copiers,308.32,1,0.15,128.13
